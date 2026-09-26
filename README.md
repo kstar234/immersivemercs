@@ -2,6 +2,8 @@
 
 A Crusader Kings III mercenary overhaul I made to make them more meaningful (In my opinion)
 
+
+Link: https://steamcommunity.com/sharedfiles/filedetails/?id=3794592564
 ---
 
 ## What This Mod Changes
