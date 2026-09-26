@@ -19,3 +19,7 @@ The number of regiments in each company progresses from one to five instead of o
 The cost of the MAA regiments of mercenary companies as a fraction of what those regiments cost when buying them is reduced from 50% to 30% (Subject to change)
 
 Rulers are allowed to go into debt up to 3 years in order to hire mercenaries instead of 2.
+
+Cost to hire mercenaries reduced by 15% upon entering the High Medieval Era, and reduced once again by 25% when entering the Late Medieval Era.
+
+The realm size multiplier has been increased from 5% to 10%(This makes hiring more expensive for larger realms.)
